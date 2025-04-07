@@ -1,0 +1,21 @@
+// src/scss/main.scss
+
+// Bootstrap core (variables y mixins necesarios)
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/maps";
+@import "bootstrap/scss/mixins";
+
+// Utilities (opcional, muy útil)
+@import "bootstrap/scss/utilities";
+
+// Componentes mínimos
+@import "bootstrap/scss/reboot";
+@import "bootstrap/scss/grid";
+@import "bootstrap/scss/buttons";
+
+
+// Tus estilos custom
+body {
+  font-family: sans-serif;
+}
