@@ -15,7 +15,5 @@
 @import "bootstrap/scss/buttons";
 
 
-// Tus estilos custom
-body {
-  font-family: sans-serif;
-}
+// Componentes custom
+@import "parts/hero";
